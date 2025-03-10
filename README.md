@@ -47,6 +47,16 @@ Generate a production-ready build:
 $ pnpm build
 ```
 
+## 🚀 Deployment
+
+### Deploying to Vercel
+
+1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket).
+2. Go to [Vercel](https://vercel.com/) and create a new project.
+3. Import your repository.
+4. In the **Build and Output Settings**, set the **Output Directory** to `dist`.
+5. Click **Deploy** and your project will be live!
+
 ## 🔗 Useful Links
 
 -   [React](https://react.dev/)
@@ -55,6 +65,7 @@ $ pnpm build
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [ShadCN/UI](https://ui.shadcn.com/)
 -   [Biome](https://biomejs.dev/)
+-   [Vercel](https://vercel.com/)
 
 ---
 
