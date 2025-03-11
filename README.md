@@ -22,7 +22,7 @@ This boilerplate is designed to be as lightweight and unopinionated as possible,
 Clone the repository and install dependencies:
 
 ```sh
-$ git clone <repo-url> && cd <repo-folder> && pnpm install
+$ git clone https://github.com/mohmmedraad/TanStacked.git && cd TanStacked && pnpm install
 ```
 
 ## 🔧 Development
